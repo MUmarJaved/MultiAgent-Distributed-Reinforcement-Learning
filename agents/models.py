@@ -1,7 +1,3 @@
-"""
-IA2C and MA2C algorithms
-@author: Tianshu Chu
-"""
 
 import os
 from agents.utils import OnPolicyBuffer, MultiAgentOnPolicyBuffer, Scheduler
